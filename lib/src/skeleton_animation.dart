@@ -26,6 +26,8 @@ class SkeletonAnimation extends core.Skeleton {
     final String skeletonDataFile = '$name.json';
     final String path = '$pathBase$name/';
 
+    print('dashu, atlasDataFile=$atlasDataFile,skeletonDataFile=$skeletonDataFile,path=$path');
+
     final Map<String, dynamic> assets = <String, dynamic>{};
     final List<Future<MapEntry<String, dynamic>>> futures =
         <Future<MapEntry<String, dynamic>>>[
