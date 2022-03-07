@@ -81,7 +81,14 @@ class SkeletonRenderObject extends RenderBox {
   Float32List _vertices = Float32List(8 * 1024);
   double _lastFrameTime = 0.0;
 
+  dispose(){
+    super.dispose();
+  }
+
   void beginFrame(Duration timeStamp) {
+    if(debugDisposed??false){
+      return;
+    }
     final double t =
         timeStamp.inMicroseconds / Duration.microsecondsPerMillisecond / 1000.0;
 

@@ -73,7 +73,7 @@ class _MyHomePageState extends State<MyHomePage> {
       debugRendering: false,
       triangleRendering: true,
     );
-
+    skeletonWidget.playState =
     final List<Widget> models = <Widget>[];
     for (final String model in all.keys) {
       models.add(
