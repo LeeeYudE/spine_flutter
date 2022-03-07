@@ -6,9 +6,19 @@ class SkeletonAnimation extends core.Skeleton {
         super(data);
 
   final core.AnimationState state;
+  bool _dispose  = false;
+
+  dispose(){
+    state.tracks.forEach((element) {
+      state.queue.dispose(element!);
+    });
+    _dispose = true;
+  }
 
   void applyState() {
-    state.apply(this);
+    if(!_dispose) {
+      state.apply(this);
+    }
   }
 
   void updateState(double delta) {

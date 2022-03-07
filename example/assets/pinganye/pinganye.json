@@ -1,0 +1,490 @@
+{
+  "skeleton": {
+    "hash": "TI5rW/3mnet/VWYWAzDhzrYFNg4",
+    "spine": "3.8.75",
+    "x": -100.7,
+    "y": -123.8,
+    "width": 202,
+    "height": 284.9,
+    "fps": 25,
+    "images": "D:/测试/pinganye_texture",
+    "audio": "D:\\测试"
+  },
+  "bones": [{
+    "name": "root"
+  }, {
+    "name": "bi",
+    "parent": "root",
+    "x": -30.1,
+    "y": 12.3,
+    "transform": "noScale"
+  }, {
+    "name": "shenti",
+    "parent": "root",
+    "x": 14.05,
+    "y": -122.35,
+    "transform": "noScale"
+  }, {
+    "name": "dabia",
+    "parent": "root",
+    "x": 29.55,
+    "y": -28.65,
+    "transform": "noScale"
+  }, {
+    "name": "tou",
+    "parent": "root",
+    "y": 47.1,
+    "transform": "noScale"
+  }, {
+    "name": "yan",
+    "parent": "root",
+    "x": -19.4,
+    "y": 28.65,
+    "transform": "noScale"
+  }, {
+    "name": "dabib",
+    "parent": "root",
+    "x": -40.45,
+    "y": -24.2,
+    "transform": "noScale"
+  }, {
+    "name": "zui",
+    "parent": "root",
+    "x": -21.2,
+    "y": -2.1,
+    "transform": "noScale"
+  }, {
+    "name": "shoub",
+    "parent": "root",
+    "x": -51.5,
+    "y": -60.1,
+    "transform": "noScale"
+  }, {
+    "name": "shoua",
+    "parent": "root",
+    "x": 8.55,
+    "y": -60.65,
+    "transform": "noScale"
+  }, {
+    "name": "pay",
+    "parent": "root",
+    "x": -1,
+    "y": 141.35,
+    "transform": "noScale"
+  }],
+  "slots": [{
+    "name": "dabib",
+    "bone": "dabib",
+    "attachment": "shou"
+  }, {
+    "name": "shenti",
+    "bone": "shenti",
+    "attachment": "shenti"
+  }, {
+    "name": "dabia",
+    "bone": "dabia",
+    "attachment": "wer3"
+  }, {
+    "name": "tou",
+    "bone": "tou",
+    "attachment": "wrg"
+  }, {
+    "name": "yan",
+    "bone": "yan",
+    "attachment": "yan"
+  }, {
+    "name": "bi",
+    "bone": "bi",
+    "attachment": "cvbr"
+  }, {
+    "name": "zui",
+    "bone": "zui",
+    "attachment": "wegxf"
+  }, {
+    "name": "shoub",
+    "bone": "shoub",
+    "attachment": "shoua"
+  }, {
+    "name": "shoua",
+    "bone": "shoua",
+    "attachment": "safas"
+  }, {
+    "name": "pay",
+    "bone": "pay",
+    "attachment": "zi"
+  }],
+  "skins": {
+    "name": "default",
+    "attachments": {
+      "shoua": {
+        "safas": {
+          "x": -13.4,
+          "y": 14.2,
+          "width": 35,
+          "height": 43
+        }
+      },
+      "bi": {
+        "cvbr": {
+          "x": 0.25,
+          "y": -0.25,
+          "width": 22,
+          "height": 15
+        }
+      },
+      "zui": {
+        "wegxf": {
+          "x": 0.25,
+          "y": -0.2,
+          "width": 50,
+          "height": 6
+        }
+      },
+      "tou": {
+        "wrg": {
+          "x": 0.3,
+          "y": -0.25,
+          "width": 202,
+          "height": 152
+        }
+      },
+      "dabia": {
+        "wer3": {
+          "x": -10.3,
+          "y": -15.3,
+          "width": 46,
+          "height": 48
+        }
+      },
+      "dabib": {
+        "shou": {
+          "x": -4.85,
+          "y": -17.95,
+          "width": 25,
+          "height": 47
+        }
+      },
+      "yan": {
+        "yan": {
+          "x": 0.25,
+          "y": -0.45,
+          "width": 109,
+          "height": 21
+        }
+      },
+      "pay": {
+        "zi": {
+          "x": 0.3,
+          "y": -0.25,
+          "width": 157,
+          "height": 40
+        }
+      },
+      "shoub": {
+        "shoua": {
+          "x": 15.85,
+          "y": 14.25,
+          "width": 38,
+          "height": 41
+        }
+      },
+      "shenti": {
+        "shenti": {
+          "x": 0.25,
+          "y": 56.55,
+          "width": 123,
+          "height": 116
+        }
+      }
+    }
+  },
+  "animations": {
+    "idle": {
+      "bones": {
+        "dabib": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": -10.2
+          }, {
+            "time": 0.56,
+            "angle": 3.72
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": 3.72
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": 2.5,
+            "y": -1.6
+          }, {
+            "time": 0.56,
+            "y": 0.1
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "y": 0.1
+          }, {
+            "time": 1.24
+          }]
+        },
+        "shenti": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": -1.23
+          }, {
+            "time": 0.56
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": -0.2,
+            "y": -0.05
+          }, {
+            "time": 0.56
+          }]
+        },
+        "dabia": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": 1.73
+          }, {
+            "time": 0.56,
+            "angle": -4.98
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": -4.98
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": 1.85,
+            "y": -0.4
+          }, {
+            "time": 0.56,
+            "x": -0.1,
+            "y": 0.15
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "x": -0.1,
+            "y": 0.15
+          }, {
+            "time": 1.24
+          }]
+        },
+        "tou": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": -2
+          }, {
+            "time": 0.56,
+            "angle": 1.7
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": 1.7
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": 5.45,
+            "y": 1.55
+          }, {
+            "time": 0.56,
+            "x": -2.1,
+            "y": -1.25
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "x": -2.1,
+            "y": -1.25
+          }, {
+            "time": 1.24
+          }]
+        },
+        "yan": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": -2
+          }, {
+            "time": 0.56,
+            "angle": 1.7
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": 1.7
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": 4.9,
+            "y": 7.75
+          }, {
+            "time": 0.56,
+            "x": -1.55,
+            "y": -4.45
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "x": -1.55,
+            "y": -4.45
+          }, {
+            "time": 1.24
+          }]
+        },
+        "bi": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": -2
+          }, {
+            "time": 0.56,
+            "angle": 1.7
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": 1.7
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": 4.35,
+            "y": 10.1
+          }, {
+            "time": 0.56,
+            "x": -1.05,
+            "y": -7.35
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "x": -1.05,
+            "y": -4.75
+          }, {
+            "time": 1.24
+          }]
+        },
+        "zui": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": -2
+          }, {
+            "time": 0.56,
+            "angle": 1.7
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": 1.7
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": 3.85,
+            "y": 10.15
+          }, {
+            "time": 0.56,
+            "x": -0.65,
+            "y": -4.5
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "x": -0.65,
+            "y": -4.5
+          }, {
+            "time": 1.24
+          }]
+        },
+        "shoub": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": -10.69
+          }, {
+            "time": 0.56,
+            "angle": 7.7
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": 7.7
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": -4.05,
+            "y": 0.85
+          }, {
+            "time": 0.56,
+            "x": 2.2,
+            "y": -0.5
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "x": 2.2,
+            "y": -0.5
+          }, {
+            "time": 1.24
+          }],
+          "scale": [{}, {
+            "time": 0.28,
+            "x": 0.97
+          }, {
+            "time": 0.56
+          }]
+        },
+        "shoua": {
+          "rotate": [{}, {
+            "time": 0.28,
+            "angle": 9.43
+          }, {
+            "time": 0.56,
+            "angle": -2.52
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "angle": -2.52
+          }, {
+            "time": 1.24
+          }],
+          "translate": [{}, {
+            "time": 0.28,
+            "x": 2.8,
+            "y": -0.6
+          }, {
+            "time": 0.56,
+            "x": -2.8,
+            "y": 2.1
+          }, {
+            "time": 0.8
+          }, {
+            "time": 1.04,
+            "x": -2.8,
+            "y": 2.1
+          }, {
+            "time": 1.24
+          }]
+        }
+      }
+    }
+  }
+}
