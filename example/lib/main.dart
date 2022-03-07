@@ -14,6 +14,7 @@ const Map<String, String> all = <String, String>{
   'girl_and_whale_rectangles': 'idle',
   'owl': 'idle',
   'raptor': 'walk',
+  'pingan': '1',
   'spineboy': 'walk',
 };
 
@@ -79,6 +80,7 @@ class _MyHomePageState extends State<MyHomePage> {
         TextButton(
           child: Text(model.toUpperCase()),
           onPressed: () async {
+            print('dashu,model=$model');
             name = model;
             await load();
             setState(() {
