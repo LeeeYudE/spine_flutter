@@ -1,76 +1,97 @@
 
 pinganye.png
-size: 331,205
+size: 958,627
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-cvbr
-  rotate: false
-  xy: 238, 4
-  size: 22, 15
-  orig: 22, 15
-  offset: 0, 0
-  index: -1
-safas
-  rotate: false
-  xy: 238, 21
-  size: 35, 43
-  orig: 35, 43
-  offset: 0, 0
-  index: -1
-shenti
-  rotate: false
-  xy: 206, 88
-  size: 123, 115
-  orig: 123, 116
-  offset: 0, 1
-  index: -1
-shou
-  rotate: false
-  xy: 161, 2
-  size: 25, 47
-  orig: 25, 47
-  offset: 0, 0
-  index: -1
-shoua
-  rotate: false
-  xy: 275, 24
-  size: 37, 40
-  orig: 38, 41
-  offset: 0, 1
-  index: -1
-wegxf
-  rotate: false
-  xy: 2, 3
-  size: 50, 6
-  orig: 50, 6
-  offset: 0, 0
-  index: -1
-wer3
+a
   rotate: true
-  xy: 188, 3
-  size: 46, 48
-  orig: 46, 48
-  offset: 0, 0
+  xy: 2, 2
+  size: 207, 237
+  orig: 240, 240
+  offset: 18, 0
   index: -1
-wrg
-  rotate: false
-  xy: 2, 51
-  size: 202, 152
-  orig: 202, 152
-  offset: 0, 0
+aaaaaaaaa
+  rotate: true
+  xy: 2, 2
+  size: 207, 237
+  orig: 240, 240
+  offset: 18, 0
   index: -1
-yan
-  rotate: false
-  xy: 206, 66
-  size: 109, 20
-  orig: 109, 21
-  offset: 0, 1
+aa
+  rotate: true
+  xy: 2, 419
+  size: 206, 237
+  orig: 240, 240
+  offset: 21, 0
   index: -1
-zi
-  rotate: false
-  xy: 2, 11
-  size: 157, 38
-  orig: 157, 40
-  offset: 0, 1
+aaa
+  rotate: true
+  xy: 241, 419
+  size: 206, 237
+  orig: 240, 240
+  offset: 22, 0
+  index: -1
+aaaa
+  rotate: true
+  xy: 480, 419
+  size: 206, 237
+  orig: 240, 240
+  offset: 21, 0
+  index: -1
+aaaaa
+  rotate: true
+  xy: 719, 419
+  size: 206, 237
+  orig: 240, 240
+  offset: 19, 0
+  index: -1
+aaaaaa
+  rotate: true
+  xy: 241, 2
+  size: 207, 237
+  orig: 240, 240
+  offset: 17, 0
+  index: -1
+aaaaaaa
+  rotate: true
+  xy: 2, 211
+  size: 206, 237
+  orig: 240, 240
+  offset: 18, 0
+  index: -1
+aaaaaaaa
+  rotate: true
+  xy: 241, 211
+  size: 206, 237
+  orig: 240, 240
+  offset: 18, 0
+  index: -1
+aaaaaaaaaa
+  rotate: true
+  xy: 480, 211
+  size: 206, 237
+  orig: 240, 240
+  offset: 18, 0
+  index: -1
+aaaaaaaaaaa
+  rotate: true
+  xy: 480, 2
+  size: 207, 237
+  orig: 240, 240
+  offset: 17, 0
+  index: -1
+aaaaaaaaaaaa
+  rotate: true
+  xy: 719, 211
+  size: 206, 237
+  orig: 240, 240
+  offset: 18, 0
+  index: -1
+aaaaaaaaaaaaaa
+  rotate: true
+  xy: 719, 2
+  size: 207, 237
+  orig: 240, 240
+  offset: 18, 0
   index: -1

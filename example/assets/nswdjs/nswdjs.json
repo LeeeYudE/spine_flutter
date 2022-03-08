@@ -1,0 +1,147 @@
+{
+  "skeleton": {
+    "hash": "brZo6UMgpC6uPLwbRsDnB7Szvrk",
+    "spine": "3.8.75",
+    "fps": 24,
+    "images": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\02",
+    "audio": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\02"
+  },
+  "bones": [{
+    "name": "root"
+  }, {
+    "name": "bb",
+    "parent": "root",
+    "transform": "noScale"
+  }, {
+    "name": "b",
+    "parent": "root",
+    "transform": "noScale"
+  }],
+  "slots": [{
+    "name": "bb",
+    "bone": "bb",
+    "attachment": "bbbbbbbbbbbbbb"
+  }, {
+    "name": "b",
+    "bone": "b",
+    "attachment": "b"
+  }],
+  "skins": [{
+    "name": "default",
+    "attachments": {
+      "bb": {
+        "bbbbbbbbbbbbbb": {
+          "width": 240,
+          "height": 240
+        }
+      },
+      "b": {
+        "b": {
+          "width": 240,
+          "height": 240
+        },
+        "bb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbbbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbbbbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbbbbbbbb": {
+          "width": 240,
+          "height": 240
+        },
+        "bbbbbbbbbbbbb": {
+          "width": 240,
+          "height": 240
+        }
+      }
+    }
+  }],
+  "animations": {
+    "idle": {
+      "slots": {
+        "b": {
+          "attachment": [{
+            "time": 0.0833,
+            "name": "bb"
+          }, {
+            "time": 0.1667,
+            "name": "bbb"
+          }, {
+            "time": 0.25,
+            "name": "bbbb"
+          }, {
+            "time": 0.3333,
+            "name": "bbbbb"
+          }, {
+            "time": 0.4167,
+            "name": "bbbbbb"
+          }, {
+            "time": 0.5,
+            "name": "bbbbbbb"
+          }, {
+            "time": 0.5833,
+            "name": "bbbbbbbb"
+          }, {
+            "time": 0.6667,
+            "name": "bbbbbbbbb"
+          }, {
+            "time": 0.75,
+            "name": "bbbbbbbbbb"
+          }, {
+            "time": 0.8333,
+            "name": "bbbbbbbbbbb"
+          }, {
+            "time": 0.9167,
+            "name": "bbbbbbbbbbbb"
+          }, {
+            "time": 1,
+            "name": "bbbbbbbbbbbbb"
+          }]
+        },
+        "bb": {
+          "attachment": [{
+            "name": null
+          }, {
+            "time": 0.5,
+            "name": "bbbbbbbbbbbbbb"
+          }]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+
+lrsksl.png
+size: 688,631
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e
+  rotate: true
+  xy: 230, 2
+  size: 209, 227
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+ee
+  rotate: true
+  xy: 2, 213
+  size: 208, 226
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+eee
+  rotate: true
+  xy: 230, 213
+  size: 208, 225
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+eeee
+  rotate: true
+  xy: 228, 423
+  size: 206, 224
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+eeeee
+  rotate: true
+  xy: 2, 424
+  size: 205, 224
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+eeeeee
+  rotate: true
+  xy: 454, 423
+  size: 206, 224
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+eeeeeee
+  rotate: true
+  xy: 457, 213
+  size: 208, 225
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+eeeeeeeee
+  rotate: true
+  xy: 2, 3
+  size: 208, 226
+  orig: 240, 240
+  offset: 21, 7
+  index: -1
+eeeeeeeeee
+  rotate: true
+  xy: 459, 2
+  size: 209, 227
+  orig: 240, 240
+  offset: 21, 7
+  index: -1

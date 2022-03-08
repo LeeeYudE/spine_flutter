@@ -1,0 +1,55 @@
+
+qchs.png
+size: 1586,242
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c
+  rotate: false
+  xy: 2, 2
+  size: 225, 238
+  orig: 240, 240
+  offset: 8, 1
+  index: -1
+cc
+  rotate: false
+  xy: 229, 2
+  size: 225, 238
+  orig: 240, 240
+  offset: 8, 1
+  index: -1
+ccc
+  rotate: false
+  xy: 683, 2
+  size: 224, 238
+  orig: 240, 240
+  offset: 9, 1
+  index: -1
+cccc
+  rotate: false
+  xy: 1361, 3
+  size: 223, 237
+  orig: 240, 240
+  offset: 10, 2
+  index: -1
+ccccc
+  rotate: false
+  xy: 909, 2
+  size: 224, 238
+  orig: 240, 240
+  offset: 9, 1
+  index: -1
+cccccc
+  rotate: false
+  xy: 1135, 2
+  size: 224, 238
+  orig: 240, 240
+  offset: 9, 1
+  index: -1
+ccccccc
+  rotate: false
+  xy: 456, 2
+  size: 225, 238
+  orig: 240, 240
+  offset: 8, 1
+  index: -1

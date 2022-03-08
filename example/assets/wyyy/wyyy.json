@@ -1,0 +1,143 @@
+{
+  "skeleton": {
+    "hash": "r+WkYJpNyPmLMjKbLDKNWOlC8a4",
+    "spine": "3.8.75",
+    "fps": 24,
+    "images": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\04",
+    "audio": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\04"
+  },
+  "bones": [{
+    "name": "d",
+    "transform": "noScale"
+  }],
+  "slots": [{
+    "name": "d",
+    "bone": "d",
+    "attachment": "d"
+  }],
+  "skins": [{
+    "name": "default",
+    "attachments": {
+      "d": {
+        "d": {
+          "width": 240,
+          "height": 240
+        },
+        "dd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddd": {
+          "width": 240,
+          "height": 240
+        },
+        "dddd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "dddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "dddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "dddddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddddddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "dddddddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddddddddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddddddddddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "ddddddddddddddddd": {
+          "width": 240,
+          "height": 240
+        },
+        "dddddddddddddddddddd": {
+          "width": 240,
+          "height": 240
+        }
+      }
+    }
+  }],
+  "animations": {
+    "idle": {
+      "slots": {
+        "d": {
+          "attachment": [{
+            "time": 0.0833,
+            "name": "dd"
+          }, {
+            "time": 0.1667,
+            "name": "ddd"
+          }, {
+            "time": 0.25,
+            "name": "dddd"
+          }, {
+            "time": 0.3333,
+            "name": "ddddd"
+          }, {
+            "time": 0.4167,
+            "name": "dddddd"
+          }, {
+            "time": 0.5,
+            "name": "ddddddd"
+          }, {
+            "time": 0.5833,
+            "name": "dddddddd"
+          }, {
+            "time": 0.6667,
+            "name": "ddddddddd"
+          }, {
+            "time": 0.75,
+            "name": "dddddddddd"
+          }, {
+            "time": 0.8333,
+            "name": "ddddddddddd"
+          }, {
+            "time": 0.9167,
+            "name": "dddddddddddd"
+          }, {
+            "time": 1,
+            "name": "ddddddddddddd"
+          }, {
+            "time": 1.0829,
+            "name": "ddddddddddddddd"
+          }, {
+            "time": 1.1662,
+            "name": "ddddddddddddddddd"
+          }, {
+            "time": 1.2495,
+            "name": "dddddddddddddddddddd"
+          }]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "skeleton": {
+    "hash": "XXj/i5wCcy0014HXbH1cXccRHWA",
+    "spine": "3.8.75",
+    "fps": 24,
+    "images": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\10",
+    "audio": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\10"
+  },
+  "bones": [{
+    "name": "j",
+    "transform": "noScale"
+  }],
+  "slots": [{
+    "name": "j",
+    "bone": "j",
+    "attachment": "j"
+  }],
+  "skins": [{
+    "name": "default",
+    "attachments": {
+      "j": {
+        "j": {
+          "width": 240,
+          "height": 240
+        },
+        "jj": {
+          "width": 240,
+          "height": 240
+        },
+        "jjj": {
+          "width": 240,
+          "height": 240
+        },
+        "jjjj": {
+          "width": 240,
+          "height": 240
+        },
+        "jjjjj": {
+          "width": 240,
+          "height": 240
+        },
+        "jjjjjj": {
+          "width": 240,
+          "height": 240
+        },
+        "jjjjjjj": {
+          "width": 240,
+          "height": 240
+        }
+      }
+    }
+  }],
+  "animations": {
+    "idle": {
+      "slots": {
+        "j": {
+          "attachment": [{
+            "time": 0.0833,
+            "name": "jj"
+          }, {
+            "time": 0.1667,
+            "name": "jjj"
+          }, {
+            "time": 0.25,
+            "name": "jjjj"
+          }, {
+            "time": 0.3333,
+            "name": "jjjjj"
+          }, {
+            "time": 0.4167,
+            "name": "jjjjjj"
+          }, {
+            "time": 0.5,
+            "name": "jjjjjjj"
+          }]
+        }
+      }
+    }
+  }
+}

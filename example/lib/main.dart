@@ -9,13 +9,21 @@ void main() => runApp(const MyApp());
 
 /// All animations. Format: `model_name: defaultAnimation`.
 const Map<String, String> all = <String, String>{
-  'cauldron': 'idle',
-  'girl_and_whale_polygons': 'idle',
-  'girl_and_whale_rectangles': 'idle',
-  'owl': 'idle',
-  'raptor': 'walk',
-  'pingan': '1',
-  'spineboy': 'walk',
+  'ct': 'idle',
+  'dtwdtt': 'idle',
+  'jwds': 'idle',
+  'jztl': 'idle',
+  'lpk': 'idle',
+  'lpyx': 'idle',
+  'lrsksl': 'idle',
+  'mxygxye': 'idle',
+  'nlbl': 'idle',
+  'nswdjs': 'idle',
+  'pinganye': 'idle',
+  'qchs': 'idle',
+  'wshr': 'idle',
+  'wyyy': 'idle',
+  'yfdz': 'idle',
 };
 
 class MyApp extends StatelessWidget {
@@ -73,7 +81,6 @@ class _MyHomePageState extends State<MyHomePage> {
       debugRendering: false,
       triangleRendering: true,
     );
-    skeletonWidget.playState =
     final List<Widget> models = <Widget>[];
     for (final String model in all.keys) {
       models.add(

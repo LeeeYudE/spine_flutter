@@ -1,0 +1,101 @@
+{
+  "skeleton": {
+    "hash": "bUyF/7MuUsFzM2eYBeopZhtDtcU",
+    "spine": "3.8.75",
+    "fps": 24,
+    "images": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-2\\json\\mxygxye",
+    "audio": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-2\\json\\mxygxye"
+  },
+  "bones": [{
+    "name": "m",
+    "transform": "noScale"
+  }],
+  "slots": [{
+    "name": "m",
+    "bone": "m",
+    "attachment": "m"
+  }],
+  "skins": [{
+    "name": "default",
+    "attachments": {
+      "m": {
+        "m": {
+          "width": 240,
+          "height": 240
+        },
+        "mm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmmm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmmmm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmmmmm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmmmmmm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmmmmmmm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmmmmmmmm": {
+          "width": 240,
+          "height": 240
+        },
+        "mmmmmmmmmm": {
+          "width": 240,
+          "height": 240
+        }
+      }
+    }
+  }],
+  "animations": {
+    "idle": {
+      "slots": {
+        "m": {
+          "attachment": [{
+            "time": 0.0417,
+            "name": "mm"
+          }, {
+            "time": 0.0833,
+            "name": "mmm"
+          }, {
+            "time": 0.125,
+            "name": "mmmm"
+          }, {
+            "time": 0.1667,
+            "name": "mmmmm"
+          }, {
+            "time": 0.2083,
+            "name": "mmmmmm"
+          }, {
+            "time": 0.25,
+            "name": "mmmmmmm"
+          }, {
+            "time": 0.2917,
+            "name": "mmmmmmmm"
+          }, {
+            "time": 0.3333,
+            "name": "mmmmmmmmm"
+          }, {
+            "time": 0.375,
+            "name": "mmmmmmmmmm"
+          }]
+        }
+      }
+    }
+  }
+}

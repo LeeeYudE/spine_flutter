@@ -1,0 +1,62 @@
+
+jwds.png
+size: 1606,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+f
+  rotate: false
+  xy: 1410, 2
+  size: 194, 237
+  orig: 240, 240
+  offset: 14, 0
+  index: -1
+ff
+  rotate: false
+  xy: 410, 2
+  size: 200, 237
+  orig: 240, 240
+  offset: 14, 0
+  index: -1
+fff
+  rotate: false
+  xy: 2, 2
+  size: 203, 237
+  orig: 240, 240
+  offset: 14, 0
+  index: -1
+ffff
+  rotate: false
+  xy: 207, 2
+  size: 201, 237
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+fffff
+  rotate: false
+  xy: 1213, 2
+  size: 195, 237
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+ffffff
+  rotate: false
+  xy: 612, 2
+  size: 200, 237
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+fffffff
+  rotate: false
+  xy: 814, 2
+  size: 199, 237
+  orig: 240, 240
+  offset: 14, 0
+  index: -1
+ffffffff
+  rotate: false
+  xy: 1015, 2
+  size: 196, 237
+  orig: 240, 240
+  offset: 14, 0
+  index: -1

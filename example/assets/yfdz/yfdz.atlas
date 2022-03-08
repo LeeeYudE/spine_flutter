@@ -1,0 +1,97 @@
+
+yfdz.png
+size: 1589,384
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k
+  rotate: true
+  xy: 236, 3
+  size: 177, 232
+  orig: 240, 240
+  offset: 28, 3
+  index: -1
+kk
+  rotate: true
+  xy: 1172, 11
+  size: 180, 232
+  orig: 240, 240
+  offset: 26, 3
+  index: -1
+kkk
+  rotate: true
+  xy: 1172, 193
+  size: 189, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkk
+  rotate: true
+  xy: 470, 183
+  size: 199, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkkk
+  rotate: true
+  xy: 2, 182
+  size: 200, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkkkk
+  rotate: true
+  xy: 938, 3
+  size: 180, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkkkkk
+  rotate: false
+  xy: 1406, 150
+  size: 181, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkkkkkk
+  rotate: true
+  xy: 938, 185
+  size: 197, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkkkkkkk
+  rotate: true
+  xy: 704, 184
+  size: 198, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkkkkkkkk
+  rotate: true
+  xy: 236, 182
+  size: 200, 232
+  orig: 240, 240
+  offset: 25, 3
+  index: -1
+kkkkkkkkkkk
+  rotate: true
+  xy: 704, 3
+  size: 179, 232
+  orig: 240, 240
+  offset: 26, 3
+  index: -1
+kkkkkkkkkkkk
+  rotate: true
+  xy: 470, 2
+  size: 179, 232
+  orig: 240, 240
+  offset: 26, 3
+  index: -1
+kkkkkkkkkkkkk
+  rotate: true
+  xy: 2, 2
+  size: 178, 232
+  orig: 240, 240
+  offset: 27, 3
+  index: -1

@@ -124,9 +124,11 @@ packages:
   spine_core:
     dependency: transitive
     description:
-      name: spine_core
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "35ac50354cf717924ae10b2e45cf72f0f9f82d36"
+      url: "https://github.com/LeeeYudE/spine_core.git"
+    source: git
     version: "0.3.2"
   spine_flutter:
     dependency: "direct main"

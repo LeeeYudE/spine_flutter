@@ -1,0 +1,48 @@
+
+ct.png
+size: 451,678
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+i
+  rotate: false
+  xy: 2, 2
+  size: 221, 228
+  orig: 240, 240
+  offset: 12, 6
+  index: -1
+ii
+  rotate: false
+  xy: 238, 452
+  size: 209, 224
+  orig: 240, 240
+  offset: 12, 5
+  index: -1
+iiii
+  rotate: false
+  xy: 236, 226
+  size: 209, 224
+  orig: 240, 240
+  offset: 12, 5
+  index: -1
+iiiii
+  rotate: true
+  xy: 225, 7
+  size: 217, 224
+  orig: 240, 240
+  offset: 12, 5
+  index: -1
+iiiiii
+  rotate: true
+  xy: 2, 453
+  size: 223, 234
+  orig: 240, 240
+  offset: 12, 6
+  index: -1
+iiiiiii
+  rotate: true
+  xy: 2, 232
+  size: 219, 232
+  orig: 240, 240
+  offset: 12, 6
+  index: -1

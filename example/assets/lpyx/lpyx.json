@@ -1,73 +1,77 @@
 {
   "skeleton": {
-    "hash": "JU5l08R/jxRmvZxddlEjTM5rlk8",
+    "hash": "7QE0ZlfmEiqFBsjpFWwaucLBI1E",
     "spine": "3.8.75",
     "fps": 24,
-    "images": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\001",
-    "audio": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\001"
+    "images": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\15",
+    "audio": "E:\\WF\\20211214表情包\\狼人杀V2-表情包240x240-3\\json\\15"
   },
   "bones": [{
-    "name": "a",
+    "name": "o",
     "transform": "noScale"
   }],
   "slots": [{
-    "name": "a",
-    "bone": "a",
-    "attachment": "a"
+    "name": "o",
+    "bone": "o",
+    "attachment": "o"
   }],
   "skins": [{
     "name": "default",
     "attachments": {
-      "a": {
-        "a": {
+      "o": {
+        "o": {
           "width": 240,
           "height": 240
         },
-        "aa": {
+        "oo": {
           "width": 240,
           "height": 240
         },
-        "aaa": {
+        "ooo": {
           "width": 240,
           "height": 240
         },
-        "aaaa": {
+        "oooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaa": {
+        "ooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaa": {
+        "ooooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaaa": {
+        "oooooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaaaa": {
+        "ooooooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaaaaa": {
+        "oooooooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaaaaaa": {
+        "ooooooooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaaaaaaa": {
+        "oooooooooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaaaaaaaa": {
+        "ooooooooooooo": {
           "width": 240,
           "height": 240
         },
-        "aaaaaaaaaaaaaa": {
+        "oooooooooooooo": {
+          "width": 240,
+          "height": 240
+        },
+        "ooooooooooooooo": {
           "width": 240,
           "height": 240
         }
@@ -77,43 +81,49 @@
   "animations": {
     "idle": {
       "slots": {
-        "a": {
+        "o": {
           "attachment": [{
             "time": 0.0833,
-            "name": "aa"
+            "name": "oo"
           }, {
             "time": 0.1667,
-            "name": "aaa"
-          }, {
-            "time": 0.2083,
-            "name": "aaaa"
+            "name": "ooo"
           }, {
             "time": 0.25,
-            "name": "aaaaa"
-          }, {
-            "time": 0.2917,
-            "name": "aaaaaa"
+            "name": "oooo"
           }, {
             "time": 0.3333,
-            "name": "aaaaaaa"
-          }, {
-            "time": 0.375,
-            "name": "aaaaaaaa"
+            "name": "ooooo"
           }, {
             "time": 0.4167,
-            "name": "aaaaaaaaa"
-          }, {
-            "time": 0.4583,
-            "name": "aaaaaaaaaa"
+            "name": "ooooooo"
           }, {
             "time": 0.5,
-            "name": "aaaaaaaaaaa"
+            "name": "oooooooo"
           }, {
             "time": 0.5833,
-            "name": "aaaaaaaaaaaa"
+            "name": "ooooooooo"
           }, {
             "time": 0.6667,
-            "name": "aaaaaaaaaaaaaa"
+            "name": "oooooooooo"
+          }, {
+            "time": 0.75,
+            "name": "ooooooooooo"
+          }, {
+            "time": 0.8333,
+            "name": "oooooooooooo"
+          }, {
+            "time": 0.9167,
+            "name": "ooooooooooooo"
+          }, {
+            "time": 1,
+            "name": "ooooooooooooooo"
+          }, {
+            "time": 1.0829,
+            "name": "oooooooooooooo"
+          }, {
+            "time": 1.1662,
+            "name": "o"
           }]
         }
       }

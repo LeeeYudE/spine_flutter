@@ -1,0 +1,104 @@
+
+lpyx.png
+size: 707,877
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+o
+  rotate: true
+  xy: 472, 670
+  size: 205, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+oo
+  rotate: true
+  xy: 2, 11
+  size: 226, 233
+  orig: 240, 240
+  offset: 7, 0
+  index: -1
+ooo
+  rotate: true
+  xy: 2, 239
+  size: 224, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+oooo
+  rotate: true
+  xy: 237, 238
+  size: 224, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+ooooo
+  rotate: true
+  xy: 472, 233
+  size: 225, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+ooooooo
+  rotate: true
+  xy: 472, 233
+  size: 225, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+oooooooo
+  rotate: true
+  xy: 472, 233
+  size: 225, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+ooooooooo
+  rotate: true
+  xy: 237, 464
+  size: 207, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+oooooooooo
+  rotate: true
+  xy: 2, 673
+  size: 202, 233
+  orig: 240, 240
+  offset: 10, 0
+  index: -1
+ooooooooooo
+  rotate: true
+  xy: 237, 7
+  size: 229, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+oooooooooooo
+  rotate: true
+  xy: 237, 673
+  size: 202, 233
+  orig: 240, 240
+  offset: 10, 0
+  index: -1
+ooooooooooooo
+  rotate: true
+  xy: 2, 465
+  size: 206, 233
+  orig: 240, 240
+  offset: 10, 0
+  index: -1
+oooooooooooooo
+  rotate: true
+  xy: 472, 460
+  size: 208, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1
+ooooooooooooooo
+  rotate: true
+  xy: 472, 2
+  size: 229, 233
+  orig: 240, 240
+  offset: 11, 0
+  index: -1

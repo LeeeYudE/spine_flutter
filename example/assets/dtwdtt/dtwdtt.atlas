@@ -1,0 +1,83 @@
+
+dtwdtt.png
+size: 468,1093
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g
+  rotate: true
+  xy: 2, 653
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+gg
+  rotate: true
+  xy: 2, 438
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+ggg
+  rotate: true
+  xy: 235, 432
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+gggg
+  rotate: true
+  xy: 2, 868
+  size: 223, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+ggggg
+  rotate: true
+  xy: 235, 869
+  size: 222, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+gggggg
+  rotate: true
+  xy: 235, 647
+  size: 220, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+ggggggg
+  rotate: true
+  xy: 2, 223
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+gggggggg
+  rotate: true
+  xy: 235, 217
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+ggggggggg
+  rotate: true
+  xy: 2, 8
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+gggggggggg
+  rotate: true
+  xy: 235, 2
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
+ggggggggggg
+  rotate: true
+  xy: 235, 2
+  size: 213, 231
+  orig: 240, 240
+  offset: 13, 0
+  index: -1
